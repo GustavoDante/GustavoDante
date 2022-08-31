@@ -60,7 +60,7 @@
       <a href="https://fb.com/gustavo.dante.3939/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:gustavodantespfc@gmail.com" target="blank"><img align="center"
+      <a href="https://mailto:gusttavo.dante@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+5581991642089" target="blank"><img align="center"
